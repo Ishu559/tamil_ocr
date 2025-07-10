@@ -1,5 +1,5 @@
 # Use an official Python 3.11 runtime as a parent image
-FROM python:3.11-slim-buster # Changed from 3.13 to 3.11
+FROM python:3.10-slim-buster # <-- CHANGE THIS LINE to a stable version
 
 # Set the working directory in the container
 WORKDIR /app
