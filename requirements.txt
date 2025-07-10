@@ -101,7 +101,7 @@ packaging==23.2
     #   pytorch-lightning
     #   scikit-image
     #   torchmetrics
-pandas==2.2.0
+pandas==2.1.4
     # via ocr_tamil (pyproject.toml)
 pillow==10.2.0
     # via
